@@ -8,7 +8,7 @@
 * Lines of Code: 365
 * Month-Year: OCT-2010
 
-###Screenshots
+### Screenshots
 
 ![start](screenshots/start.png)
 ![game](screenshots/game.png)
