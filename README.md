@@ -3,7 +3,7 @@
 ### A simple car game developed using Java Applet and Java Multithreading. It has one player and three opponents which approach randomly at random speed.
 
 * Technologies: Java, Multithreading, Graphics, Applet, HTML
-* Tools: Geany, Ubuntu
+* Tools and OS: Geany, Ubuntu
 * Platform: Applet Viewer, Browser with Applet-Plugin
 * Modules: Car, MyCar, Divider, PushButton
 * Lines of Code: 365
