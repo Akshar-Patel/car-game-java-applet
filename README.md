@@ -7,7 +7,7 @@
 * Platform: Applet Viewer, Browser with Applet-Plugin
 * Modules: Car, MyCar, Divider, PushButton
 * Lines of Code: 365
-* Duration: 1 Week (OCT-2010)
+* Duration: 1 Week (OCT 2010)
 
 ### Screenshots
 
